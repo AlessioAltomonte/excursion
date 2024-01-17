@@ -1,0 +1,21 @@
+@font-face{
+    font-family: inter, sans-serif;
+    src: local ("Inter.ttf");
+    src: url ("https://fonts.googleapis.com")
+         url ("https://fonts.gstatic.com")
+         url ("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;700;800&display=swap");
+}
+
+* {
+    box-sizing: border-box;
+    }
+
+
+html  {
+        font-family: inter, sans-serif;
+        font-weight: 100;
+        color:black;
+        margin:0 auto;
+        width: 80%;
+        text-align: center;
+}
